@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1617203411 source:c:\users\dell\documents\c++ and c code\solusi-kumpulan-tugas-alpro\no 45-v2\soalno45\main.c
+	<stdio.h>
+	"tabel.h"
+
+1617205151 c:\users\dell\documents\c++ and c code\solusi-kumpulan-tugas-alpro\no 45-v2\soalno45\tabel.h
+	"boolean.h"
+
+1617170368 c:\users\dell\documents\c++ and c code\solusi-kumpulan-tugas-alpro\no 45-v2\soalno45\boolean.h
+
+1617170444 c:\users\dell\documents\c++ and c code\solusi-kumpulan-tugas-alpro\no 45-v2\soalno45\tabel.c
+	"tabel.h"
+	<stdio.h>
+
+1617203406 source:c:\users\dell\documents\c++ and c code\solusi-kumpulan-tugas-alpro\no 45-v2\soalno45\tabel.c
+	"tabel.h"
+	<stdio.h>
+
